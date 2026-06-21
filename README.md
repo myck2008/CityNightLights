@@ -1,4 +1,4 @@
-This is Final Project for Stanford University Code in Place
+This is Final Project for Stanford University Code in Place 2026
 
 Click how many light windows you can!
 
